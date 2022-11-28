@@ -1,0 +1,1 @@
+{names: [ball, player, referee, goalkeepers], nc: 4, train: yolov7/images/train, val: yolov7/images/valid}
