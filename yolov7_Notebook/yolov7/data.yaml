@@ -1,0 +1,1 @@
+{names: [ball, player, referee, goalkeepers], nc: 4, train: C:\Users\Administrator\Desktop\Deep Learning VEO\SoccerNetDeepLearning2022\yolov7_Notebook\yolov7\images\train, val: C:\Users\Administrator\Desktop\Deep Learning VEO\SoccerNetDeepLearning2022\yolov7_Notebook\yolov7\images\valid}
